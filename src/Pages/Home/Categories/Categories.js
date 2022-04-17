@@ -15,7 +15,7 @@ const categories = [
 
 const Categories = () => {
     return (
-        <div className='container'>
+        <div id='categories' className='container'>
             <h2 className='text-primary text-center mt-5'> Categories</h2>
             <div className="row">
                 {
