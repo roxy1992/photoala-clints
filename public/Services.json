@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "photography",
+        "price": "100",
+        "description": "You can book me to take photos for any of your events. I have 5 years of experience.",
+        "img": "https://i.ibb.co/0MDqDJr/istockphoto-1027719302-612x612.jpg"
+    },
+    {
+        "id": 2,
+        "name": "videography",
+        "price": "100",
+        "description": "Book me to make a video of any event. It is my responsibility to video your event.",
+        "img": "https://i.ibb.co/2d0hbS4/images.jpg"
+    },
+    {
+        "id": 3,
+        "name": "photo & videography",
+        "price": "150",
+        "description": "Book me for video and photography. I have 5 years of experience.",
+        "img": "https://i.ibb.co/xLrNDpw/19-195531-video-production-png-photography-videography-png-transparent-png.jpg"
+    }
+]
